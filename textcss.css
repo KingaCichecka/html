@@ -1,0 +1,46 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+
+}
+body {
+    background-color: cadetblue;
+}
+a:link {
+    color: blueviolet;
+}
+a:hover {
+    text-decoration: wavy;
+    color: blue;
+}
+a:visited {
+    color: chartreuse;
+}
+table,th,td {
+    border: 1px solid black;
+    border: radius 70px;
+    background-color: cadetblue;
+
+}
+th {
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+td {
+    padding: 20px;
+    background-color: darkolivegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label {display: block;}
+input[type=text]:focus {
+    background-color: darkmagenta;
+
+}
+div {
+    background-color: darkcyan;
+    width: 200px;
+    border: 20px green;
+    padding: 15px;
+
+}
